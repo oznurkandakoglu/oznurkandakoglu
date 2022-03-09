@@ -47,9 +47,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=HelixJumpClone)](https://github.com/oznurkandakoglu/HelixJumpClone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=GameCircle)](https://github.com/oznurkandakoglu/GameCircle)
 
-## Qt Repositories
+<!-- ## Qt Repositories -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket) -->
 
 
 
