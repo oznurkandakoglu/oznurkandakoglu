@@ -42,8 +42,8 @@
 <!-- ## Qt Projects -->
 ## Swift Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)] 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)] 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)
+[![Readme Card]](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)
 
 ## Unity Repositories
 
@@ -52,11 +52,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=Roller-Madness)](https://github.com/oznurkandakoglu/Roller-Madness)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=Hobi-GameJam)](https://github.com/oznurkandakoglu/Hobi-GameJam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=TowerDefense)](https://github.com/oznurkandakoglu/TowerDefense )
-
-<!-- ## Qt Repositories -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&show_owner=true&theme=synthwave&repo=udp-socket)](https://github.com/hakandindis/udp-socket) -->
-
 
 
 
