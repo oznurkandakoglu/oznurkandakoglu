@@ -40,7 +40,10 @@
 </a> -->
 
 <!-- ## Qt Projects -->
+## Swift Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)] https://github.com/oznurkandakoglu/SimpsonBook
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)] https://github.com/oznurkandakoglu/CatchTheKennyGame
 
 ## Unity Repositories
 
