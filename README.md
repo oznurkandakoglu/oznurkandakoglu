@@ -42,8 +42,9 @@
 <!-- ## Qt Projects -->
 ## Swift Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)
-[![Readme Card]](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SwiftBirthdayNoteTaker)
 
 ## Unity Repositories
 
