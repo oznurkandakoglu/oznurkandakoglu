@@ -1,64 +1,46 @@
-<!-- ![Hakan's GitHub Banner](background.png) -->
+<h3> Hello there, I'm Öznur Kandakoğlu!👋🏻 </h3>
 
-<!-- <img src="banner.png" width="300"> -->
+<h4> About Me </h4>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/oznurkandakoglu/)
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/hakandindis/) -->
+- 🌱 I am a 4th-year student studying Computer Engineering at Ankara University. I have worked as a game developer and iOS developer. Currently, I am focusing on enhancing my skills in backend programming with Java.
 
-<!-- ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/-Dart-61DAFB?logo=dart&logoColor=white&style=flat-square) -->
+<h4> How to Get in Touch </h4>
 
+- 📫  If you have any questions or would like to get in touch. 
 
-<!-- ![](https://komarev.com/ghpvc/?username=hakandindis&color=orange) -->
+ - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
 
-<!-- Skills
+ - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
 
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Qt_Framework-informational?style=flat&logo=qt&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Socket_Programming-informational?style=flat&logo=cpp&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197) -->
-
-<!-- <details>
-<summary>More Skills</summary>
-</details> -->
+  [linkedin]: https://www.linkedin.com/in/oznurkandakoglu/
+  [email]: mailto:oznurkandakoglu@gmail.com
 
 
-<!-- <a href="https://github.com/hakandindis/Bildir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350/>
-</a>
-<a href="https://github.com/hakandindis/Bildir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" width=350 />
-</a> -->
 
 
-<!-- <a href="https://github.com/hakandindis/Bildir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakandindis&repo=Bildir&theme=tokyonight" />
-</a> -->
+<!-- <h3 align="left">Tools:</h3>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="70" height="30"/> </a> -->
 
-<!-- ## Qt Projects -->
-## Swift Repositories
+#### Languages 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oznurkandakoglu&layout=compact&theme=radical) 
+
+
+
+
+---
+
+
+#### Swift Repositories
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SwiftBirthdayNoteTaker)
 
-## Unity Repositories
+#### Unity Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=HelixJumpClone)](https://github.com/oznurkandakoglu/HelixJumpClone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=GameCircle)](https://github.com/oznurkandakoglu/GameCircle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=Roller-Madness)](https://github.com/oznurkandakoglu/Roller-Madness)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=Hobi-GameJam)](https://github.com/oznurkandakoglu/Hobi-GameJam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=TowerDefense)](https://github.com/oznurkandakoglu/TowerDefense )
 
 
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oznurkandakoglu&layout=compact&theme=radical)
 
-## Stats
-
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oznurkandakoglu&show_icons=true&hide=contribs,prs,issues&theme=tokyonight&count_private=true)
