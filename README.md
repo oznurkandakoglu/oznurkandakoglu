@@ -6,7 +6,8 @@
 
 -  If you have any questions or would like to get in touch. 
 
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]             [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
+    [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
 
   [linkedin]: https://www.linkedin.com/in/oznurkandakoglu/
   [email]: mailto:oznurkandakoglu@gmail.com
@@ -29,8 +30,8 @@
 
 #### Swift Repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SimpsonBook)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CatchTheKennyGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CurrencyConverter)](https://github.com/oznurkandakoglu/CurrencyConverter.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SuperHero-Book-SwiftUI)](https://github.com/oznurkandakoglu/SuperHero-Book-SwiftUI.git)
 
 #### Unity Repositories
 
