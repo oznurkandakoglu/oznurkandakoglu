@@ -1,6 +1,10 @@
 <h3> Hello there, I'm Öznur Kandakoğlu!👋🏻 </h3>
 
+
+
 <h4> About Me </h4>
+
+
 
 -  I am a 4th-year student studying Computer Engineering at Ankara University. I have worked as a game developer and iOS developer. Currently, I am focusing on enhancing my skills in backend programming with Java.
 
@@ -19,6 +23,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="70" height="30"/> </a> -->
 
 #### Languages 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oznurkandakoglu&layout=compact&theme=radical) 
 
