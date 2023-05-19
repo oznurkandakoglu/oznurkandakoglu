@@ -1,20 +1,19 @@
-<h3> Hello there, I'm Öznur Kandakoğlu!👋🏻 </h3>
+### Hi there, I'm Öznur Kandakoğlu!👋
 
-
-
-<h4> About Me </h4>
-
-
+#### About Me
 
 -  I am a 4th-year student studying Computer Engineering at Ankara University. I have worked as a game developer and iOS developer. Currently, I am focusing on enhancing my skills in backend programming with Java.
 
--  If you have any questions or would like to get in touch. 
+#### How to Get in Touch
 
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
-    [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
 
-  [linkedin]: https://www.linkedin.com/in/oznurkandakoglu/
-  [email]: mailto:oznurkandakoglu@gmail.com
+[linkedin]: https://www.linkedin.com/in/oznurkandakoglu/
+[email]: mailto:oznurkandakoglu@gmail.com
+
+
+  
 
 
 
