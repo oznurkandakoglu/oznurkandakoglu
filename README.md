@@ -35,7 +35,6 @@
 #### Swift Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=MovieSearchBookSwiftUI)](https://github.com/oznurkandakoglu/MovieSearchBookSwiftUI)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CurrencyConverter)](https://github.com/oznurkandakoglu/CurrencyConverter.git)
 
 
