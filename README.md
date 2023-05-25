@@ -33,9 +33,9 @@
 
 
 #### Swift Repositories
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=MovieSearchBook)](https://github.com/oznurkandakoglu/MovieSearchBookSwiftUI.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=CurrencyConverter)](https://github.com/oznurkandakoglu/CurrencyConverter.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oznurkandakoglu&show_owner=true&theme=tokyonight&repo=SuperHero-Book-SwiftUI)](https://github.com/oznurkandakoglu/SuperHero-Book-SwiftUI.git)
+
 
 #### Unity Repositories
 
